@@ -1,3 +1,7 @@
-Git is a very 6666666666666 version control system.
-Git is a very 6666666666666 free software.
+Git is a very version control system.
+Git is a very free software.
+<<<<<<< HEAD
 Hi！Git！Hi！
+=======
+Hi！Git！Hello！Git！
+>>>>>>> feature1
